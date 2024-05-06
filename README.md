@@ -1,8 +1,7 @@
 
-**Welcome to my Github Page.**
-
-My name is Rajesh Sharma and I am a Denmark based web developer.
-
+<style>
+  h1{color: blue;}
+</style>
 <h1>
   Welcome to my Github Page.
 </h1>
